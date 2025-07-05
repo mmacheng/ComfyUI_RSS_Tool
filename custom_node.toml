@@ -1,0 +1,6 @@
+[custom_node]
+name = "RSS节点"
+version = "1.0.0"
+description = "comfyui的RSS小工具"
+author = "mmacheng"
+category = "custom/rss工具"
