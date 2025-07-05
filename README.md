@@ -1,0 +1,1 @@
+A simple RSS widget that can parse the URL of the article based on the RSS subscription source you provide, and can also get the article content based on the parsed URL.

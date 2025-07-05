@@ -1,0 +1,5 @@
+feedparser
+lxml
+requests
+newspaper3k
+nltk
