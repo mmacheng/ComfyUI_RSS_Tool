@@ -2,6 +2,6 @@
   "title": "ComfyUI_RSS_Tool",
   "author": "mmacheng",
   "node_url": "https://github.com/mmacheng/ComfyUI_RSS_Tool",
-  "description": "一句话描述你的插件功能",
+  "description": "A simple RSS widget that can parse the URL of the article based on the RSS subscription source you provide, and can also get the article content based on the parsed URL.",
   "category": "custom/rss tool"
 }
