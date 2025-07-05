@@ -6,10 +6,5 @@ Use the browser to visit the following link to download the punkt compressed pac
 https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip
 After the download is successful, you need to unzip it to ~\custom_nodes\ComfyUI_RSS_Tool\nltk_data\tokenizers
 After success, the directory is as follows:
-ComfyUI/
-└── custom_nodes/
-    └── ComfyUI_RSS_Tool/
-        ├── __init__.py
-        └── nltk_data/
-            └── tokenizers/
-                └── punkt/
+![image](https://github.com/user-attachments/assets/8cb757a3-526d-45cb-a519-394a51e665cc)
+
